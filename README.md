@@ -1,5 +1,3 @@
-![My Awesome Banner](https://example.com/banner-image.jpg)
-
 ![logo](https://github.com/KRISHA212/-KRISHA212/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Krisha Patel</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
